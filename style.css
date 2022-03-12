@@ -1,0 +1,19 @@
+/* style.css */
+
+.header1,
+.recipes {
+    font-family: Tahoma, Verdana, sans-serif;
+}
+
+.header1 {
+    color: rgb(163, 108, 26);
+    background-color: rgb(40, 2, 102);
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.recipes {
+    color: rgb(42, 165, 48);
+    font-weight: bold;
+}
